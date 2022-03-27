@@ -15,6 +15,7 @@ def main():
     display_fortunes(fortunes_list)
 
 # This is a display function that would open the function
+#project 3
 
 def display_fortunes(fortunes_list):
     a = 'yes'
